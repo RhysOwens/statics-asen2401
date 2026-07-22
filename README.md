@@ -109,7 +109,7 @@ and channel sections using the parallel axis theorem.
 ---
 
 ### 6. Shear Force and Bending Moment Generator
-**File:** `sfd_bmd_generator.ipynb`  
+**File:** `beam_reaction_sfd_bmd.ipynb`  
 **Course topic:** Distributed Forces, Shear and Bending  
 
 Generates shear force and bending moment diagrams 
