@@ -88,7 +88,7 @@ Key functions: np.linalg.solve()
 
 ---
 
-### 4. 2D Truss Analyzer (planned)
+### 4. 2D Truss Analyzer
 **File:** `truss_analyzer.ipynb`  
 **Course topic:** Trusses, Frames and Machines  
 
