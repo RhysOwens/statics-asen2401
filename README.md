@@ -77,7 +77,7 @@ Key functions: np.cross(), np.linalg.norm()
 
 ---
 
-### 3. Free Body Diagram Solver (planned)
+### 3. Free Body Diagram Solver
 **File:** `fbd_solver.ipynb`  
 **Course topic:** Equilibrium in 2D and 3D  
 
@@ -108,8 +108,8 @@ and channel sections using the parallel axis theorem.
 
 ---
 
-### 6. Shear Force and Bending Moment Generator (planned)
-**File:** `sfd_bmd_generator.ipynb`  
+### 6. Shear Force and Bending Moment Generator
+**File:** `beam_reaction_sfd_bmd.ipynb`  
 **Course topic:** Distributed Forces, Shear and Bending  
 
 Generates shear force and bending moment diagrams 
