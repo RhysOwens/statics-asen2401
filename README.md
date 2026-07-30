@@ -30,7 +30,7 @@ Editor: VS Code with Jupyter extension
 
 
 Setup:
-git clone git@github.com:rhys-jones/statics-asen2401.git
+git clone git@github.com:RhysOwens/statics-asen2401.git
 cd statics-asen2401
 python3 -m venv .venv
 source .venv/bin/activate
@@ -88,7 +88,7 @@ Key functions: np.linalg.solve()
 
 ---
 
-### 4. 2D Truss Analyzer (planned)
+### 4. 2D Truss Analyzer
 **File:** `truss_analyzer.ipynb`  
 **Course topic:** Trusses, Frames and Machines  
 
@@ -98,7 +98,7 @@ Color coded visualization of member forces.
 
 ---
 
-### 5. Centroid and Moment of Inertia Calculator (planned)
+### 5. Centroid and Moment of Inertia Calculator
 **File:** `centroid_calculator.ipynb`  
 **Course topic:** Centroids and Moments of Inertia  
 
@@ -118,7 +118,7 @@ and applied moments.
 
 ---
 
-### 7. Coulomb Friction Analyzer (planned)
+### 7. Coulomb Friction Analyzer
 **File:** `friction_analyzer.ipynb`  
 **Course topic:** Friction  
 
